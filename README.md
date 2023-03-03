@@ -1,0 +1,1 @@
+# dependabot-ghes-support-example
